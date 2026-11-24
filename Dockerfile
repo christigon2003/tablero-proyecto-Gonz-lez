@@ -9,4 +9,4 @@ COPY . .
 
 EXPOSE 8765
 
-CMD ["sh", "-c", "solara run Mi proyecto/app.py --host=0.0.0.0 --port=${PORT:-8765}"]
+CMD ["sh", "-c", "solara run Mi_proyecto/app.py --host=0.0.0.0 --port=${PORT:-8765}"]
