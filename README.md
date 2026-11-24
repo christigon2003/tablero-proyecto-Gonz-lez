@@ -1,1 +1,1 @@
-# tablero-proyecto-Gonz-lez
+# tablero-proyecto-Gonzalez
